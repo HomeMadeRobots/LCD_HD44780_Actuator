@@ -9,6 +9,7 @@
 	<RHAPSODY-MODEL>
 	<ISubsystem type="e">
 			<_id type="a">GUID 3fbee6d9-d0f6-4b3d-88cd-6d99f5117af9</_id>
+			<_myState type="a">8192</_myState>
 			<_name type="a">LCD_HD44780_Actuator</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
@@ -16,18 +17,18 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes</_hsubsystem>
-							<_hname type="a">PSWA_Package</_hname>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Project_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Project_Metamodel::Common_Stereotypes</_hsubsystem>
+							<_hname type="a">Software_Package</_hname>
 							<_hid type="a">GUID afb0e42d-a399-4819-bb39-46f0fd0f0fbf</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.24.2020::13:29:14</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.24.2020::13:29:14</_modifiedTime>
+			<_modifiedTimeWeak type="a">11.23.2020::14:54:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.23.2020::14:54:46</_modifiedTime>
 			<_lastID type="a">5</_lastID>
-			<weakCGTime type="a">4.24.2020::13:29:14</weakCGTime>
+			<weakCGTime type="a">11.23.2020::14:54:46</weakCGTime>
 			<strongCGTime type="a">4.24.2020::13:5:53</strongCGTime>
 			<_defaultComposite type="s">GUID 1025994d-b668-4dc2-b9ac-bdc8eb6d1b3d</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -236,8 +237,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.24.2020::13:30:53</_modifiedTime>
-			<_lastModifiedTime type="a">4.24.2020::13:30:53</_lastModifiedTime>
+			<_modifiedTime type="a">11.23.2020::14:56:19</_modifiedTime>
+			<_lastModifiedTime type="a">11.23.2020::14:56:19</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2169,7 +2170,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.24.2020::13:25:28</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">11.23.2020::14:56:19</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -2182,9 +2183,9 @@
 It uses the 4-bit mode of the controller.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.24.2020::13:25:28</_modifiedTime>
+			<_modifiedTime type="a">11.23.2020::14:56:19</_modifiedTime>
 			<_lastID type="a">10</_lastID>
-			<weakCGTime type="a">4.24.2020::13:25:28</weakCGTime>
+			<weakCGTime type="a">11.23.2020::14:56:19</weakCGTime>
 			<strongCGTime type="a">4.24.2020::13:6:7</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -3052,7 +3053,7 @@ It uses the 4-bit mode of the controller.</_text>
 			<IGeneralization type="e">
 				<_id type="a">GUID 3cb8af3e-37c2-4a9f-8f87-9d4bbef47a35</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_dependsOn type="r">
 					<INObjectHandle type="e">
 						<_hm2Class type="a">IClass</_hm2Class>
@@ -3079,7 +3080,7 @@ It uses the 4-bit mode of the controller.</_text>
 							<_hm2Class type="a">IStereotype</_hm2Class>
 							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Component_Type::Operations</_hsubsystem>
-							<_hname type="a">Component_Operation</_hname>
+							<_hname type="a">OS_Operation</_hname>
 							<_hid type="a">GUID 03e6f281-8593-48b0-a435-0fc8687783f6</_hid>
 						</IHandle>
 					
@@ -3118,16 +3119,16 @@ It uses the 4-bit mode of the controller.</_text>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Component_Type</_hsubsystem>
-							<_hname type="a">Configuration_Attribute</_hname>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Project_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Project_Metamodel::Common_Stereotypes</_hsubsystem>
+							<_hname type="a">Configuration_Parameter</_hname>
 							<_hid type="a">GUID c7a97ee0-e497-4c57-aaf1-4aefdce59a69</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.24.2020::13:24:47</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.24.2020::13:24:47</_modifiedTime>
+			<_modifiedTimeWeak type="a">11.23.2020::14:54:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.23.2020::14:54:46</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -3139,7 +3140,16 @@ It uses the 4-bit mode of the controller.</_text>
 			<_static type="a">0</_static>
 			<_isReferenceAttr type="a">0</_isReferenceAttr>
 			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID d8c7718b-8682-4849-8870-1662958afed0</value>
+			</AggregatesList>
 		</IAttribute>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID d8c7718b-8682-4849-8870-1662958afed0</_id>
+			<_modifiedTimeWeak type="a">11.23.2020::14:54:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.23.2020::14:54:46</_modifiedTime>
+			<_value type="a">LCD_CONFIG_FONT_5x8</_value>
+		</ILiteralSpecification>
 		<IAttribute type="e">
 			<_id type="a">GUID a60089d9-2587-49d9-ba41-06ffe768a8cd</_id>
 			<_myState type="a">8192</_myState>
@@ -3150,16 +3160,16 @@ It uses the 4-bit mode of the controller.</_text>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Component_Type</_hsubsystem>
-							<_hname type="a">Configuration_Attribute</_hname>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Project_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Project_Metamodel::Common_Stereotypes</_hsubsystem>
+							<_hname type="a">Configuration_Parameter</_hname>
 							<_hid type="a">GUID c7a97ee0-e497-4c57-aaf1-4aefdce59a69</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.24.2020::13:25:28</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.24.2020::13:25:28</_modifiedTime>
+			<_modifiedTimeWeak type="a">11.23.2020::14:56:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.23.2020::14:56:19</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -3171,7 +3181,16 @@ It uses the 4-bit mode of the controller.</_text>
 			<_static type="a">0</_static>
 			<_isReferenceAttr type="a">0</_isReferenceAttr>
 			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID 00237518-7e57-4449-a98c-d48250c877f9</value>
+			</AggregatesList>
 		</IAttribute>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 00237518-7e57-4449-a98c-d48250c877f9</_id>
+			<_modifiedTimeWeak type="a">11.23.2020::14:56:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.23.2020::14:56:19</_modifiedTime>
+			<_value type="a">LCD_CONFIG_NB_LINES_2</_value>
+		</ILiteralSpecification>
 		<IAttribute type="e">
 			<_id type="a">GUID a6ff902c-c1ff-45be-b6bc-7338096eb5fd</_id>
 			<_myState type="a">8192</_myState>
@@ -3182,16 +3201,16 @@ It uses the 4-bit mode of the controller.</_text>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Component_Type</_hsubsystem>
-							<_hname type="a">Configuration_Attribute</_hname>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Project_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Project_Metamodel::Common_Stereotypes</_hsubsystem>
+							<_hname type="a">Configuration_Parameter</_hname>
 							<_hid type="a">GUID c7a97ee0-e497-4c57-aaf1-4aefdce59a69</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.24.2020::13:25:14</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.24.2020::13:25:14</_modifiedTime>
+			<_modifiedTimeWeak type="a">11.23.2020::14:56:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.23.2020::14:56:4</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -3203,7 +3222,16 @@ It uses the 4-bit mode of the controller.</_text>
 			<_static type="a">0</_static>
 			<_isReferenceAttr type="a">0</_isReferenceAttr>
 			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID e9dce357-66da-4bbb-8e5b-da06df9ee927</value>
+			</AggregatesList>
 		</IAttribute>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID e9dce357-66da-4bbb-8e5b-da06df9ee927</_id>
+			<_modifiedTimeWeak type="a">11.23.2020::14:56:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.23.2020::14:56:4</_modifiedTime>
+			<_value type="a">LCD_CONFIG_NB_COLUMNS_16</_value>
+		</ILiteralSpecification>
 		<IType type="e">
 			<_id type="a">GUID ce25d29f-fd02-445b-93f0-6eca3ce1be4c</_id>
 			<_myState type="a">8192</_myState>
